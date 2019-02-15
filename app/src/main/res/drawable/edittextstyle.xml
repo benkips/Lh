@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+   xmlns:andriod1="http://schemas.android.com/apk/res/android">
+    <corners  andriod1:radius="50dp"/>
+    <padding andriod1:bottom="15dp" andriod1:right="15dp" andriod1:left="15dp" andriod1:top="15dp"/>
+    <solid andriod1:color="#f1f5f8"/>
+
+</shape>

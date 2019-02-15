@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Leaseholder</string>
+    <string name="logo">Launcherpic</string>
+    <string name="login">Logintxt</string>
+    <string name="logintxt">LOGIN</string>
+    <string name="Regestrationtxt">REGISTRATION</string>
+    <string name="phone">Phone</string>
+    <string name="phonetxt">Phone</string>
+    <string name="password">****</string>
+    <string name="passwordtxt">****</string>
+    <string name="Login">LOGIN</string>
+    <string name="regtxt">Dont have an account?Register</string>
+    <string name="logtxt">Already have an account?login</string>
+    <string name="regname">Name</string>
+    <string name="Signup">Signup</string>
+    <string name="profile_picture">profile_picture</string>
+    <string name="nav_header_title">Leaseholder</string>
+    <string name="email">Email</string>
+    <string name="Register">Register</string>
+    <string name="Remember">Remember Me</string>
+    <string name="Landlordquaters">Landlord Quaters Registration</string>
+    <string name="uploading">please upload picture of the house</string>
+    <string name="title_activity_index">Index</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="Landlordmenu">
+        <item>Register your premises</item>
+        <item>Manage premise profile</item>
+        <item>chats</item>
+        <item>Update my profile</item>
+        <item>view my profile</item>
+    </string-array>
+    <string-array name="LandlordDescription">
+        <item>add location and pictures of the house</item>
+        <item>remove or update pictures</item>
+        <item>converse with your tenants</item>
+        <item>update your profile</item>
+        <item>check your profile</item>
+    </string-array>
+
+    <string-array name="Moremenu">
+        <item>Faq</item>
+        <item>Help</item>
+        <item>Rate</item>
+        <item>Feedback</item>
+        <item>More apps</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cmpactiom">Complete action using</string>
+    <string name="share">share</string>
+
+
+</resources>

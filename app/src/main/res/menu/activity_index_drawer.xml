@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+  <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_landlord"
+        android:icon="@drawable/ic_vpn_key_black_24dp"
+        android:title="Landlord" />
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_menu_share"
+        android:title="share" />
+
+  </group>
+
+  <item android:title="Application">
+    <menu>
+      <item
+          android:id="@+id/nav_about"
+          android:icon="@drawable/ic_info_black_24dp"
+          android:title="About" />
+      <item
+          android:id="@+id/nav_dev"
+          android:icon="@drawable/ic_wb_incandescent_black_24dp"
+          android:title="Developer" />
+    </menu>
+  </item>
+
+</menu>
